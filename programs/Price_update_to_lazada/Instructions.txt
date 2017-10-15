@@ -1,0 +1,14 @@
+Purpose: Update price, sale price and sale price duration to lazada
+
+Instructions: 
+1) Update the 'source.xlsx' with seller SKU and the corresponding:
+	a) Price
+	b) Sale Price
+	c) Sale price start date (Any excel readable format. Make sure excel interprets it correctly. Suggest writing in for e.g. 17 Oct 17)
+	d) Sale Price end date (Any excel readable format. Make sure excel interprets it correctly. Suggest writing in for e.g. 17 Oct 17)
+2) Copy the file to the folder Price_Updater. Overwrite existing file if the warning pops up
+3) Run the shortcut "PriceUpdate.exe"
+4) Choose the storer. (only has 'test account' currently')
+5) Confirm choice of storer
+6) Wait for upload. Will show 'Success' if successful
+7) Else, relevant warning messages will appear.
